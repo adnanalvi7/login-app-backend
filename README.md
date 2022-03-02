@@ -1,3 +1,8 @@
+# How to setup APP
+1-Create DB with NAME "my_db"
+2- Run commanad "npm i"
+2- Run command 'npm run db-migrate up' to create table using migration
+
 # node-typescript-app
 A `node` server with a set of `RESTful` services using entirely `TypeScript` language.
 
